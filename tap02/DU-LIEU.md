@@ -1,6 +1,6 @@
 # Dữ liệu tập 2: nguồn và giấy phép
 
-Tạo ngày 22/11/2026. Bộ ảnh nằm ở `du-lieu/` và đóng gói thành `du-lieu.zip` (3.933.577 byte, 112 file). Notebook tải zip từ `https://raw.githubusercontent.com/ngocnguyen88/AI-from-Zero/main/tap02/du-lieu.zip`.
+Tạo ngày 22/11/2026. Bộ ảnh nằm ở `du-lieu/` và đóng gói thành `du-lieu.zip` (3.933.577 byte, 112 file). Notebook tải zip từ `https://raw.githubusercontent.com/ngocnguyen88/AI-from-Zero/main/tap02/du-lieu.zip`, nên trước khi đăng phải chép `du-lieu.zip` (và tap02.ipynb, DU-LIEU.md) vào `repo-github/tap02/` rồi đẩy lên. CHƯA đẩy.
 
 ## Cấu trúc
 
