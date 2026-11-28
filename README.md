@@ -9,6 +9,7 @@ Notebook chạy kèm series video "Học AI từ số 0" trên kênh YouTube [Ng
 | 1 | AI không được lập trình, nó được dạy bằng ví dụ. Chạy mô hình nhận dạng ảnh đầu tiên (ResNet-18) | [![Mở trong Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ngocnguyen88/AI-from-Zero/blob/main/tap01/tap01.ipynb) |
 | 2 | P2: Dạy AI một thứ nó chưa từng biết, chỉ với 100 tấm ảnh. Tinh chỉnh ResNet-18 nhận ra thẻ mẫu | [![Mở trong Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ngocnguyen88/AI-from-Zero/blob/main/tap02/tap02.ipynb) |
 | 3 | P3: AI được 98% trong notebook, gặp dữ liệu mới còn 74%. Lỗi chia train/test hay gặp (rò rỉ dữ liệu, chia theo nhóm) | [![Mở trong Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ngocnguyen88/AI-from-Zero/blob/main/tap03/tap03.ipynb) |
+| 4 | P4: AI nhận thẻ mới đúng 79%. Mở khoá phần cuối của mô hình để tăng độ chính xác lên khoảng 97% (so với mốc khoá hết) | [![Mở trong Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ngocnguyen88/AI-from-Zero/blob/main/tap04/tap04.ipynb) |
 
 ## Cách chạy
 
